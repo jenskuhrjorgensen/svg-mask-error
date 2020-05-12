@@ -1,0 +1,6 @@
+module Pods_CleanProject {
+  umbrella header "Pods-CleanProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
