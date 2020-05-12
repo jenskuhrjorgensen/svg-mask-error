@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import {SafeAreaView, ScrollView, StatusBar, StyleSheet, Text, View,} from 'react-native';
+import {SafeAreaView, ScrollView, StatusBar, StyleSheet} from 'react-native';
 
 import {Colors,} from 'react-native/Libraries/NewAppScreen';
 import SvgWithMask from "./SvgWithMask.svg"
