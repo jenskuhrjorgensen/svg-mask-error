@@ -1,6 +1,6 @@
 # svg-mask-error
 Run the project:
-1. yarn i
+1. yarn
 2. react-native run-ios
 
 
